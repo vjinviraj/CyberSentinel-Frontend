@@ -1,0 +1,12 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" rx="30" fill="#121212"/> <!-- Dark background -->
+  <path d="M100 20L30 60V100C30 150 70 180 100 180C130 180 170 150 170 100V60L100 20Z" fill="url(#cyberGradient)" stroke="#00FF88" stroke-width="4"/>
+  <path d="M70 100L100 70L130 100L100 130L70 100Z" fill="black" stroke="#00AEEF" stroke-width="3"/>
+  <circle cx="100" cy="100" r="10" fill="#FFC107" stroke="#FF3B30" stroke-width="3"/>
+  <defs>
+    <linearGradient id="cyberGradient" x1="100" y1="20" x2="100" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00FF88"/>
+      <stop offset="1" stop-color="#00AEEF"/>
+    </linearGradient>
+  </defs>
+</svg>

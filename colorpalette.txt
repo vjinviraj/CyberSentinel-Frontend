@@ -1,0 +1,18 @@
+Primary Colors (Main Theme)
+🟢 Neon Green (#00FF88) → Used for highlights, success messages, and active states.
+🔵 Cyber Blue (#00AEEF) → Accent color for links, icons, and buttons.
+⚫ Deep Charcoal (#121212) → Main background color (dark mode).
+⚪ Off-White (#E0E0E0) → Text color for high contrast.
+Secondary Colors (Supporting Elements)
+🟡 Warning Yellow (#FFC107) → Used for alerts, warnings, and important notices.
+🔴 Alert Red (#FF3B30) → Critical warnings, errors, and danger indicators.
+🟣 Purple Tint (#6A0DAD) → Subtle futuristic accent (for hover effects or secondary elements).
+Gradients (Optional, for Backgrounds)
+Cyber Glow → linear-gradient(90deg, #00FF88, #00AEEF)
+Dark Mode Depth → linear-gradient(180deg, #121212, #1A1A1A)
+
+
+✅ Buttons: bg-primary hover:bg-secondary text-background
+✅ Background: bg-background text-text
+✅ Warnings: text-warning
+✅ Errors: text-danger
