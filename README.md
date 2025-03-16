@@ -1,8 +1,10 @@
-Here's a **GitHub README** for CyberSentinel based on your details:  
+
 
 ---
 
 # 🛡️ **CyberSentinel** – AI-Powered Cybersecurity Suite  
+![image](https://github.com/user-attachments/assets/6b919411-1ab6-4e0d-81a0-4df81d9964bf)
+
 
 🚀 **Your One-Stop Solution for Cyber Threat Protection**  
 CyberSentinel is an AI-driven security platform that defends users from **phishing attacks, email fraud, and data breaches** with advanced **machine learning** and **real-time monitoring**.
@@ -10,6 +12,8 @@ CyberSentinel is an AI-driven security platform that defends users from **phishi
 ---
 
 ## **🔍 Features & Capabilities**  
+![image](https://github.com/user-attachments/assets/0ef1d6fd-779e-4938-840b-67a7ac67e262)
+
 
 ### **🛑 URL Phishing Detection**  
 ✔ AI-powered **phishing scanner** detects fraudulent websites.  
@@ -32,6 +36,9 @@ CyberSentinel is an AI-driven security platform that defends users from **phishi
 ✔ Works **manually or automatically** for seamless protection.  
 ✔ **Chrome Extension** support for **instant threat detection**.  
 
+![image](https://github.com/user-attachments/assets/ef48cc25-49cf-4d42-9748-629b983ddc31)
+
+
 ### **📂 Attachment Security Scanner**  
 ✔ Analyzes **PDF, Office files, ZIP, EXE, etc.** for malware.  
 ✔ Flags **embedded scripts & suspicious behaviors**.  
@@ -39,6 +46,8 @@ CyberSentinel is an AI-driven security platform that defends users from **phishi
 ### **💬 AI-Powered Cybersecurity Chatbot**  
 ✔ **Trained with cybersecurity knowledge** to assist users.  
 ✔ Uses **BERT NLP model** for accurate threat detection.  
+![image](https://github.com/user-attachments/assets/f54317c9-6b84-4bb9-9f14-ee09970d208a)
+
 
 ---
 
@@ -62,13 +71,6 @@ CyberSentinel is an AI-driven security platform that defends users from **phishi
 
 ---
 
-## **📸 Screenshots**  
-*(Include your images here – Add them to the `assets/` folder and link them below!)*  
-
-![CyberSentinel Dashboard](assets/dashboard.png)  
-![Phishing Scanner](assets/phishing_scanner.png)  
-
----
 
 ## **⚡ Getting Started**  
 
